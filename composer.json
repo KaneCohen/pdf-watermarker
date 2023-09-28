@@ -1,5 +1,5 @@
 {
-    "name": "filippo-toso/pdf-watermarker",
+    "name": "cohensive/pdf-watermarker",
     "description": "Simple PDF Watermarker with Laravel support",
     "license": "MIT",
     "authors": [{
